@@ -4,7 +4,6 @@ class ProductsController < ApplicationController
   end
 
   def index
-    session[:cart]
 
   end
 
