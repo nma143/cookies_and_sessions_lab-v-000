@@ -3,8 +3,8 @@ class ProductsController < ApplicationController
   def new
   end
 
-  def '/''
-    
+  def '/'
+
   end
-  
+
 end
